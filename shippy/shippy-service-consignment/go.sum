@@ -2,6 +2,7 @@ cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMT
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/Skeletor11/fluid-service v0.0.0-20200910161542-e652110a8791 h1:Me2QXAewp5bXaqTn7gwix5o6WBurha2lX8Wbk5Dfcv8=
 github.com/Skeletor11/fluid-service v0.0.0-20200910161542-e652110a8791/go.mod h1:vRO0mdUK1wlfWAVEeH8c4Pn7kkeGkYimaH9WmcBkYlM=
+github.com/Skeletor11/service v0.0.0-20200910173057-f946f770c12b h1:eJgigl+OAgWrcRiJcriyu1o5qCn4ZnEe1+EluhdOqbs=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
 github.com/cncf/udpa/go v0.0.0-20191209042840-269d4d468f6f/go.mod h1:M8M6+tZqaGXZJjfX53e64911xZQV5JYwmTeXPW+k8Sc=

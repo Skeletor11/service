@@ -1,4 +1,4 @@
-// shippy-service-consignment/main.go
+// shippy/shippy-service-consignment/main.go
 package main
 
 import (
@@ -8,7 +8,7 @@ import (
 	"sync"
 
 	// Import the generated protobuf code
-	pb "github.com/Skeletor11/fluid-service/shippy-service-consignment/proto/consignment"
+	pb "github.com/Skeletor11/service/shippy/shippy-service-consignment/proto/consignment"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 )

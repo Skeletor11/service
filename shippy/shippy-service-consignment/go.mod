@@ -1,4 +1,4 @@
-module github.com/Skeletor11/service/shippy
+module github.com/Skeletor11/service/shippy/shippy-service-consignment
  
 go 1.14
 
