@@ -1,8 +1,7 @@
-package consignment
+package util
 
 import (
 	"log"
-	// Import the generated protobuf code
 )
 
 func Testing(info string) {
